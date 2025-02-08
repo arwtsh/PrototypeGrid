@@ -17,7 +17,7 @@ Adds a shader inspired by Hammer/Source/Half-Life development textures. The shad
 
 Installing this package via the Unity package manager is the best way to install this package. There are multiple methods to install a third-party package using the package manager, the recommended one is `Install package from Git URL`. The URL for this package is `https://github.com/arwtsh/PrototypeGrid.git`. The Unity docs contains a walkthrough on how to install a package. It also contains information on [specifying a specific branch or release](https://docs.unity3d.com/6000.0/Documentation/Manual/upm-git.html#revision).
 
-Alternatively, you can download directly from this GitHub repo and extract the .zip file into the folder `ProjectRoot/Packages/com.arwtsh.prototypegrid`. This will also allow you to edit the contents of the package.
+Alternatively, you can download directly from this GitHub repo and extract the .zip file into the folder `ProjectRoot/Packages/com.jjasundry.prototypegrid`. This will also allow you to edit the contents of the package.
 
 ## Requirements
 
