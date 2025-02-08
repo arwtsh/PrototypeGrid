@@ -1,0 +1,35 @@
+{
+  "name": "com.jjasundry.prototypegrid",
+  "version": "1.0.0",
+  "displayName": "Prototype Grid",
+  "description": "A hammer/source/half-life-2 inspired uv-independent shader to assist in whiteboxing environments.",
+  "unity": "6000.0",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+    "com.unity.shadergraph": "17.0.3"
+ },
+ "keywords": [
+    "Source",
+    "Half Life",
+    "Hammer",
+    "Grid",
+    "Prototype",
+    "Debug"
+  ],
+  "author": {
+    "name": "Adam White",
+    "email": "jjasundry+gamedev@gmail.com",
+    "url": "https://www.linkedin.com/in/adamwhite302/"
+  },
+  "hideInEditor": "false",
+  "license": "CC-BY-4.0",
+  "samples": [
+    {
+       "displayName": "Demo_BuiltIn",
+       "description": "Includes an example whiteboxed scene using several PrototypeGrid materials, and shows how well the shader works on a complex mesh.",
+       "path": "Samples~/SamplesBuiltIn"
+    }
+  ]
+}
