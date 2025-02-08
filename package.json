@@ -30,16 +30,6 @@
        "displayName": "Demo_BuiltIn",
        "description": "Includes an example whiteboxed scene using several PrototypeGrid materials, and shows how well the shader works on a complex mesh. This is built for the Standard/Built-In render pipeline.",
        "path": "Samples~/SamplesBuiltIn"
-    },
-    {
-       "displayName": "Demo_URP",
-       "description": "Includes an example whiteboxed scene using several PrototypeGrid materials, and shows how well the shader works on a complex mesh. This is built for the Universal Render Pipeline.",
-       "path": "Samples~/SamplesURP"
-    },
-    {
-       "displayName": "Demo_HDRP",
-       "description": "Includes an example whiteboxed scene using several PrototypeGrid materials, and shows how well the shader works on a complex mesh. This is built for the High Definition Render Pipeline.",
-       "path": "Samples~/SamplesHDRP"
     }
   ]
 }
